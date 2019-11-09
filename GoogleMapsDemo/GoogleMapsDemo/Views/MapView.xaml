@@ -3,13 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:custom="clr-namespace:GoogleMapsDemo.Customs"
+             xmlns:control="clr-namespace:GoogleMapsDemo.Controls"
              mc:Ignorable="d"
              x:Class="GoogleMapsDemo.Views.MapView"
              Title="Google Map">
     <ContentPage.Content>
         <StackLayout>
-            <custom:MapCustom />
+            <control:MapCustom />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Xamarin.Forms.Maps;
 
-namespace GoogleMapsDemo.Customs
+namespace GoogleMapsDemo.Controls
 {
     public class MapCustom : Map
     {
